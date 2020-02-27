@@ -1,0 +1,111 @@
+\contentsline {part}{ក\hspace {1em}ចំណេះដឹងមូលដ្ឋាន}{\textsf {៥}}{part.1}% 
+\contentsline {chapter}{\numberline {១}ការប្រមូលផ្ដុំទិន្នន័យ (ថ.៨)}{\textsf {៧}}{chapter.1}% 
+\contentsline {section}{\numberline {១}ទិន្នន័យដែលមិនប្រមូលផ្ដុំជាថ្នាក់}{\textsf {៧}}{section.1.1}% 
+\contentsline {section}{\numberline {២}ទិន្នន័យដែលប្រមូលផ្ដុំជាថ្នាក់}{\textsf {៨}}{section.1.2}% 
+\contentsline {section}{\numberline {៣}អ៊ីស្តូក្រាម}{\textsf {៩}}{section.1.3}% 
+\contentsline {section}{\numberline {៤}លំហាត់}{\textsf {៩}}{section.1.4}% 
+\contentsline {chapter}{\numberline {២}ស្ថិតិតាង (ថ.៩)}{\textsf {១១}}{chapter.2}% 
+\contentsline {section}{\numberline {១}ប្រកង់ ប្រកង់ធៀប}{\textsf {១១}}{section.2.1}% 
+\contentsline {section}{\numberline {២}ប្រេកង់កើន ប្រកង់ថយ}{\textsf {១១}}{section.2.2}% 
+\contentsline {section}{\numberline {៣}អ៊ីស្តូក្រាមដែលមានអំព្លីទុតស្មើគ្នា}{\textsf {១១}}{section.2.3}% 
+\contentsline {section}{\numberline {៤}អ៊ីស្តូក្រាមដែលមានអំព្លីទុតស្មើគ្នា}{\textsf {១១}}{section.2.4}% 
+\contentsline {section}{\numberline {៥}លំហាត់}{\textsf {១១}}{section.2.5}% 
+\contentsline {chapter}{\numberline {៣}ស្ថិតិវិភាគ (ថ.៩)}{\textsf {១៣}}{chapter.3}% 
+\contentsline {section}{\numberline {១}ម៉ូត}{\textsf {១៣}}{section.3.1}% 
+\contentsline {section}{\numberline {២}មេដ្យាន}{\textsf {១៣}}{section.3.2}% 
+\contentsline {section}{\numberline {៣}មធ្យម}{\textsf {១៣}}{section.3.3}% 
+\contentsline {section}{\numberline {៤}គណនាម៉ូត មេដ្យាន តាមតារាងប្រកង់}{\textsf {១៣}}{section.3.4}% 
+\contentsline {section}{\numberline {៥}លំហាត់}{\textsf {១៣}}{section.3.5}% 
+\contentsline {chapter}{\numberline {៤}ប្រូបាប (ថ.៩)}{\textsf {១៥}}{chapter.4}% 
+\contentsline {section}{\numberline {១}ប្រកង់ធៀប}{\textsf {១៥}}{section.4.1}% 
+\contentsline {section}{\numberline {២}ប្រូបាប}{\textsf {១៥}}{section.4.2}% 
+\contentsline {section}{\numberline {៣}ផលបូកប្រូបាប}{\textsf {១៥}}{section.4.3}% 
+\contentsline {section}{\numberline {៤}ផលគុណប្រូបាប}{\textsf {១៥}}{section.4.4}% 
+\contentsline {section}{\numberline {៥}លំហាត់}{\textsf {១៥}}{section.4.5}% 
+\contentsline {part}{ខ\hspace {1em}ចំណេះដឹងមធ្យមសិក្សាបឋមភូមិ}{\textsf {១៧}}{part.2}% 
+\contentsline {chapter}{\numberline {៥}ប្រភាគពីជគណិត (ថ.៨)}{\textsf {១៩}}{chapter.5}% 
+\contentsline {section}{\numberline {១}សញ្ញាណប្រភាគពីជគណិត}{\textsf {១៩}}{section.5.1}% 
+\contentsline {section}{\numberline {២}តម្លៃលេខនៃប្រភាគពីជគណិត}{\textsf {១៩}}{section.5.2}% 
+\contentsline {section}{\numberline {៣}សម្រួលប្រភាគពីជគណិត}{\textsf {១៩}}{section.5.3}% 
+\contentsline {section}{\numberline {៤}ប្រមាណវិធីលើប្រភាគពីជគណិត}{\textsf {១៩}}{section.5.4}% 
+\contentsline {section}{\numberline {៥}លំហាត់}{\textsf {១៩}}{section.5.5}% 
+\contentsline {chapter}{\numberline {៦}សមីការដឺក្រេទី១មានមួយអញ្ញាត (ថ.៩)}{\textsf {២១}}{chapter.6}% 
+\contentsline {section}{\numberline {១}សមីការដឺក្រេទី១មានមួយអញ្ញាត}{\textsf {២១}}{section.6.1}% 
+\contentsline {section}{\numberline {២}ដោះស្រាយសមីការដឺក្រេទី១មានមួយអញ្ញាត}{\textsf {២១}}{section.6.2}% 
+\contentsline {section}{\numberline {៣}ចំណោទសមីការដឺក្រេទី១មានមួយអញ្ញាត}{\textsf {២១}}{section.6.3}% 
+\contentsline {section}{\numberline {៤}លំហាត់}{\textsf {២១}}{section.6.4}% 
+\contentsline {chapter}{\numberline {៧}ប្រព័ន្ធសមីការដឺក្រេទី១មានពីរអញ្ញាត (ថ.៨)}{\textsf {២៣}}{chapter.7}% 
+\contentsline {section}{\numberline {១}សមីការដឺក្រេទី១មានពីរអញ្ញាត}{\textsf {២៣}}{section.7.1}% 
+\contentsline {section}{\numberline {២}ក្រាភិចនៃសមីការ $ Ax+By=C $}{\textsf {២៣}}{section.7.2}% 
+\contentsline {section}{\numberline {៣}ប្រព័ន្ធសមីការដឺក្រេទី១មានពីរអញ្ញាត}{\textsf {២៣}}{section.7.3}% 
+\contentsline {section}{\numberline {៤}ចំណោទប្រព័ន្ធសមីការ}{\textsf {២៣}}{section.7.4}% 
+\contentsline {section}{\numberline {៥}លំហាត់}{\textsf {២៣}}{section.7.5}% 
+\contentsline {chapter}{\numberline {៨}ឬសទី $ n $ (ថ.៩)}{\textsf {២៥}}{chapter.8}% 
+\contentsline {section}{\numberline {១}រំលឹកអំពីស្វ័យគុណ}{\textsf {២៥}}{section.8.1}% 
+\contentsline {section}{\numberline {២}ឬសទី $ n $}{\textsf {២៥}}{section.8.2}% 
+\contentsline {section}{\numberline {៣}ការបញ្ចេញបញ្ចូលមួយចំនួនក្នុងរ៉ាឌីកាល់}{\textsf {២៥}}{section.8.3}% 
+\contentsline {section}{\numberline {៤}ប្រមាណវិធីលើរ៉ាឌីកាល់}{\textsf {២៥}}{section.8.4}% 
+\contentsline {section}{\numberline {៥}វិធីបំបាត់រ៉ាឌីកាល់ពីភាគបែង}{\textsf {២៥}}{section.8.5}% 
+\contentsline {section}{\numberline {៦}លំហាត់}{\textsf {២៥}}{section.8.6}% 
+\contentsline {chapter}{\numberline {៩}វិសមីការដឺក្រេទី១ មាន១អញ្ញាត (ថ.៩)}{\textsf {២៧}}{chapter.9}% 
+\contentsline {section}{\numberline {១}វិសមភាព}{\textsf {២៧}}{section.9.1}% 
+\contentsline {section}{\numberline {២}វិសមីការដឺក្រេទី១ មាន១អញ្ញាត}{\textsf {២៧}}{section.9.2}% 
+\contentsline {section}{\numberline {៣}ប្រព័ន្ធវិសមីការដឺក្រេទី១ មាន១អញ្ញាត}{\textsf {២៧}}{section.9.3}% 
+\contentsline {section}{\numberline {៤}ដោះស្រាយចំណោទវិសមភាព វិសមីការ និងប្រព័ន្ធវិសមីការ}{\textsf {២៧}}{section.9.4}% 
+\contentsline {section}{\numberline {៥}លំហាត់}{\textsf {២៧}}{section.9.5}% 
+\contentsline {chapter}{\numberline {១០}ត្រីកោណ (ថ.៧)}{\textsf {២៩}}{chapter.10}% 
+\contentsline {section}{\numberline {១}និយមន័យ}{\textsf {២៩}}{section.10.1}% 
+\contentsline {section}{\numberline {២}ធាតុដទៃទៀតនៃត្រីកោណ}{\textsf {២៩}}{section.10.2}% 
+\contentsline {section}{\numberline {៣}ត្រីកោណពិសេស}{\textsf {២៩}}{section.10.3}% 
+\contentsline {section}{\numberline {៤}មុំបាតនៃត្រីកោណសមបាទ}{\textsf {២៩}}{section.10.4}% 
+\contentsline {section}{\numberline {៥}ផលបូកមុំក្នុងត្រីកោណ}{\textsf {២៩}}{section.10.5}% 
+\contentsline {section}{\numberline {៦}មុំក្រៅត្រីកោណ}{\textsf {២៩}}{section.10.6}% 
+\contentsline {section}{\numberline {៧}សំណង់ត្រីកោណ}{\textsf {២៩}}{section.10.7}% 
+\contentsline {section}{\numberline {៨}លំហាត់}{\textsf {២៩}}{section.10.8}% 
+\contentsline {chapter}{\numberline {១១}ករណីប៉ុនគ្នានៃត្រីកោណ (ថ.៨)}{\textsf {៣១}}{chapter.11}% 
+\contentsline {section}{\numberline {១}និយមន័យ}{\textsf {៣១}}{section.11.1}% 
+\contentsline {section}{\numberline {២}ករណីប៉ុនគ្នានៃត្រីកោណសាមញ្ញ}{\textsf {៣១}}{section.11.2}% 
+\contentsline {section}{\numberline {៣}ករណីប៉ុនគ្នានៃត្រីកោណកែង}{\textsf {៣១}}{section.11.3}% 
+\contentsline {section}{\numberline {៤}លំហាត់}{\textsf {៣១}}{section.11.4}% 
+\contentsline {chapter}{\numberline {១២}វិសមភាពនៃត្រីកោណ (ថ.៨)}{\textsf {៣៣}}{chapter.12}% 
+\contentsline {section}{\numberline {១}ទំនាក់ទំនងរវាងមុំ និងជ្រុង}{\textsf {៣៣}}{section.12.1}% 
+\contentsline {section}{\numberline {២}ទំនាក់ទំនងរវាងជ្រុងនៃត្រីកោណមួយ}{\textsf {៣៣}}{section.12.2}% 
+\contentsline {section}{\numberline {៣}លំហាត់}{\textsf {៣៣}}{section.12.3}% 
+\contentsline {chapter}{\numberline {១៣}បន្ទាត់ និងអង្កត់ ជួបក្នុងត្រីកោណមួយ (ថ.៨)}{\textsf {៣៥}}{chapter.13}% 
+\contentsline {section}{\numberline {១}លក្ខណៈកន្លះបន្ទាត់ពុះមុំនៃត្រីកោណមួយ}{\textsf {៣៥}}{section.13.1}% 
+\contentsline {section}{\numberline {២}លក្ខណៈមេដ្យាទ័រនៃត្រីកោណ}{\textsf {៣៥}}{section.13.2}% 
+\contentsline {section}{\numberline {៣}លក្ខណៈមេដ្យាននៃត្រីកោណ}{\textsf {៣៥}}{section.13.3}% 
+\contentsline {section}{\numberline {៤}លក្ខណៈកម្ពស់នៃត្រីកោណ}{\textsf {៣៥}}{section.13.4}% 
+\contentsline {section}{\numberline {៥}លំហាត់}{\textsf {៣៥}}{section.13.5}% 
+\contentsline {chapter}{\numberline {១៤}ចតុកោណ (ថ.៨)}{\textsf {៣៧}}{chapter.14}% 
+\contentsline {section}{\numberline {១}លក្ខណៈទូទៅនៃចតុកោណប៉ោង}{\textsf {៣៧}}{section.14.1}% 
+\contentsline {section}{\numberline {២}ចតុកោណពិសេស}{\textsf {៣៧}}{section.14.2}% 
+\contentsline {section}{\numberline {៣}អនុវត្តន៍}{\textsf {៣៧}}{section.14.3}% 
+\contentsline {section}{\numberline {៤}លំហាត់}{\textsf {៣៧}}{section.14.4}% 
+\contentsline {chapter}{\numberline {១៥}ប្រលេឡូក្រាម (ថ.៨)}{\textsf {៣៩}}{chapter.15}% 
+\contentsline {section}{\numberline {១}និយមន័យ}{\textsf {៣៩}}{section.15.1}% 
+\contentsline {section}{\numberline {២}លក្ខណៈនៃប្រលេឡូក្រាម}{\textsf {៣៩}}{section.15.2}% 
+\contentsline {section}{\numberline {៣}លក្ខណៈសម្គាល់ប្រលេឡូក្រាម}{\textsf {៣៩}}{section.15.3}% 
+\contentsline {section}{\numberline {៤}អនុវត្តន៍ចំពោះត្រីកោណ}{\textsf {៣៩}}{section.15.4}% 
+\contentsline {section}{\numberline {៥}លំហាត់}{\textsf {៣៩}}{section.15.5}% 
+\contentsline {chapter}{\numberline {១៦}ចតុកោណព្នាយ (ថ.៨)}{\textsf {៤១}}{chapter.16}% 
+\contentsline {section}{\numberline {១}និយមន័យ}{\textsf {៤១}}{section.16.1}% 
+\contentsline {section}{\numberline {២}លក្ខណៈចតុកោណព្នាយ}{\textsf {៤១}}{section.16.2}% 
+\contentsline {section}{\numberline {៣}លក្ខណៈចតុកោណព្នាយសមបាត}{\textsf {៤១}}{section.16.3}% 
+\contentsline {section}{\numberline {៤}លំហាត់}{\textsf {៤១}}{section.16.4}% 
+\contentsline {chapter}{\numberline {១៧}ប្រលេឡូក្រាមពិសេស (ថ.៨)}{\textsf {៤៣}}{chapter.17}% 
+\contentsline {section}{\numberline {១}និយមន័យ}{\textsf {៤៣}}{section.17.1}% 
+\contentsline {section}{\numberline {២}លក្ខណៈចតុកោណកែង ចតុកោណស្មើ ការេ}{\textsf {៤៣}}{section.17.2}% 
+\contentsline {section}{\numberline {៣}អនុវត្តន៍ក្នុងត្រីកោណកែង}{\textsf {៤៣}}{section.17.3}% 
+\contentsline {section}{\numberline {៤}លំហាត់}{\textsf {៤៣}}{section.17.4}% 
+\contentsline {part}{គ\hspace {1em}វិធីសាស្ត្របង្រៀន}{\textsf {៤៥}}{part.3}% 
+\contentsline {chapter}{\numberline {១៨}ទ្រឹស្ដី}{\textsf {៤៧}}{chapter.18}% 
+\contentsline {section}{\numberline {១}សមត្ថភាពមូលដ្ឋាននៃគណិតវិទ្យាសម្រាប់សិស្ស}{\textsf {៤៧}}{section.18.1}% 
+\contentsline {section}{\numberline {២}ការណែនាំប្រើប្រាស់សៀវភៅសិស្ស និងសៀវភៅគ្រូ (ToP ថ្នាក់ទី ៧,៨,៩)}{\textsf {៤៧}}{section.18.2}% 
+\contentsline {section}{\numberline {៣}គោលវិធីសិស្សមជ្ឈមណ្ឌល}{\textsf {៤៧}}{section.18.3}% 
+\contentsline {section}{\numberline {៤}កិច្ចតែងការបង្រៀន (ToP ថ្នាក់ទី ១១)}{\textsf {៤៧}}{section.18.4}% 
+\contentsline {section}{\numberline {៥}របៀបបង្រៀននិយមន័យ និងទ្រឹស្ដីបទ}{\textsf {៤៧}}{section.18.5}% 
+\contentsline {chapter}{\numberline {១៩}អនុវត្តន៍ និងហ្វឹកហ្វឺនគរុកោសល្យ}{\textsf {៤៩}}{chapter.19}% 
+\contentsline {section}{\numberline {១}អនុវត្តន៍ការសរសេរកិច្ចតែងការបង្រៀន}{\textsf {៤៩}}{section.19.1}% 
+\contentsline {section}{\numberline {២}ការឡើងបង្រៀនសាកល្បង}{\textsf {៤៩}}{section.19.2}% 
+\contentsline {section}{\numberline {៣}ការធ្វើថ្នាក់និទស្សន៍}{\textsf {៤៩}}{section.19.3}% 
