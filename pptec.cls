@@ -21,9 +21,9 @@
 \RequirePackage{newpxmath}
 % language
 \RequirePackage[no-math]{fontspec}% no math font
-\setmainfont[Ligatures=TeX,AutoFakeBold=0.5,AutoFakeSlant=0.25]{KhmerOSPalatino}% roman font
+\setmainfont[Ligatures=TeX,AutoFakeBold=0.5,AutoFakeSlant=0.25]{Khmer OS}% roman font
 \setsansfont[Ligatures=TeX,AutoFakeBold=0,AutoFakeSlant=0.25]{Khmer OS Muol Light}% sans serif font
-\setmonofont[Ligatures=TeX,AutoFakeBold=0.5,AutoFakeSlant=0.25]{KhmerOSBokorPalatino}% typewriter font
+\setmonofont[Ligatures=TeX,AutoFakeBold=0.5,AutoFakeSlant=0.25]{Khmer OS Bokor}% typewriter font
 \XeTeXlinebreaklocale "km"% line break rule
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.5pt% line break skip
 % khmer number
@@ -424,44 +424,6 @@
 \setlist[itemize,2]{c}
 \setlist[itemize,3]{d}
 \setlist[itemize,4]{t}
-% sub enumerate
-\RequirePackage{tasks}
-\NewPatternFormat{k}{\@alpkh}% cntformats package
-\NewPatternFormat{m}{\@khmer}% counter-format=tsk[l]
-\settasks{%
-	counter-format=tsk[k].,%
-	label-format=\color{pptec}\ttfamily,%
-	label-offset=0.5ex,%
-	label-align=right,%
-	label-width=3ex,%
-	item-indent=3.5ex,%
-	column-sep=2ex,%
-	before-skip=0ex,%
-	after-skip=0ex,%
-	after-item-skip=0.5ex%
-}
-\NewTasks[%
-	style=enumerate,%
-	counter-format=tsk[k].,%
-	label-format=\color{pptec}\ttfamily,%
-	label-offset=0.5ex,%
-	label-align=right,%
-	label-width=3ex,%
-	item-indent=3.5ex,%
-	column-sep=2ex,%
-	before-skip=0ex,%
-	after-skip=0ex,%
-	after-item-skip=0.5ex]{Enumerate}[\item]
-\NewTasks[%
-	style=itemize,
-	label=\ensuremath{\bullet},
-	label-format=\color{pptec},%
-	label-offset=0.5ex,%
-	label-align=right,%
-	label-width=1ex,%
-	item-indent=1.5ex,%
-	column-sep=2ex,%
-	after-item-skip=0.5ex]{Itemize}[\item]
 % caption
 \RequirePackage{caption}
 \RequirePackage{subcaption}
@@ -659,6 +621,5 @@
 	from style/.append style={draw=pptec}}
 \def\tkzTabDefaultLineWidth{1pt}
 \RequirePackage{tkz-euclide}
-\usetkzobj{all}
 %
 \endinput
